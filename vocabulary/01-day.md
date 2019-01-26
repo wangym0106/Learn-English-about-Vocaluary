@@ -32,5 +32,48 @@ defer vi. 推迟；延期；服从vt. 使推迟；使延期
 possible adj. 可能的；合理的；合适的 n. 可能性；合适的人；可能的事物  
 persistence n. 持续；固执；存留；坚持不懈；毅力  
 concerns n. 关注；关注点；关注者（concern的复数形式) v. 使关心（concern的三单形式）；涉及；关系到  
-Accommodate vt. 容纳；使适应；供应；调解 vi. 适应；调解  
+accommodate vt. 容纳；使适应；供应；调解 vi. 适应；调解  
+diverse adj. 不同的；多种多样的；变化多的  
+perspectives n. [数] 透视，远景，看法；构面；观点展示（perspective的复数形式）  
+whereby conj. 凭借；通过…；借以；与…一致 adv. 凭此；借以  
+arguments n. 参数  
+process vt. 处理；加工;队列前进；n. 过程，进行；方法，步骤；作用；程序；推移adj. 经过特殊加工（或处理）的  
+fundamentally adv. 根本地，从根本上；基础地  
+capable adj. 能干的，能胜任的；有才华的  
+handling n. 处理 adj. 操作的 v. 负责；对待（handle的ing形式）；触摸  
+internationalization n. 国际化  
+Application-layer 应用层  
+functionality n. 功能；[数] 泛函性，函数性  
+superset 超集  
+exclusively adv. 唯一地；专有地；排外地  
+backbone n. 支柱；主干网；决心，毅力；脊椎  
+instantiated v. 实例化（instantiate的过去分词）；具现化，实体化  
+assembled v. 装配（assemble的过去分词）；集合 adj. 组合的；安装的  
+reflected  adj. 反射的；得自他人的 v. 反射；思考（reflect的过去式和过去分词）  
+express vt. 表达；快递 adj. 明确的；迅速的；专门的 n. 快车，快递，专使；捷运公司  
+compose vt. 构成；写作；使平静；排…的版 vi. 组成；作曲；排字  
+interdependence n. 互相依赖  
+stand-alone n. 独立；单机 adj. 独立的；独立操作的  
+declaratively adv 宣言地 声明地 公告地 陈述地  
+explicit adj. 明确的；清楚的；直率的；详述的  
+boilerplate n. 样板文件；引用  
+keystrokes v. [计] 击键（keystroke的第三人称单数形式）；用键盘输入 n. 打键次数  
+diagram n. 图表；图解 vt. 用图解法表示  
+executable adj. 可执行的；可实行的  
+preceding adj. 在前的；前述的 v. 在...之前（precede的ing形式)  
+supplied adj. 有...提供的；备有...的 v. 提供；供应（supply的过去式）  
+intuitive adj. 直觉的；凭直觉获知的  
+convey vt. 传达；运输；让与  
+concepts n. 概念，观念；思想（concept复数形式)  
+decoupled adj. 不挂钩的 v. 解耦，[电] 退耦（decouple的过去式和过去分词）  
+definition n. 定义；[物] 清晰度；解说  
+correspond vi. 符合，一致；相应；通信  
+fine-grained adj. 细粒的；有细密纹理的 adj. 详细的；深入的  
+domain n. 领域；域名；产业；地产  
+convenient adj. 方便的；[废语]适当的；[口语]近便的；实用的  
+syntax n. 语法；句法；有秩序的排列  
+linkage n. 连接；结合；联接；联动装置  
+collaborating n. 合作；协作 v. 合作（collaborate的ing形式）；协调  
+occurrences from n. 发生；出现；事件；发现  
+below adv. 在下面，在较低处；在本页下面 prep. 在…下面  
 
