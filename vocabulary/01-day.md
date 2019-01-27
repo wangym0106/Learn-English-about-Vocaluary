@@ -76,4 +76,32 @@ linkage n. 连接；结合；联接；联动装置
 collaborating n. 合作；协作 v. 合作（collaborate的ing形式）；协调  
 occurrences from n. 发生；出现；事件；发现  
 below adv. 在下面，在较低处；在本页下面 prep. 在…下面  
+directive n. 指示；指令 adj. 指导的；管理的  
+equivalent adj. 等价的，相等的；同意义的 n. 等价物，相等物  
+retrieve vt. [计] 检索；恢复；重新得到 vi. 找回猎物 n. [计] 检索；恢复，取回  
+delegates n. 代表 （delegate的复数） v. 选举…为代表；委托职责（delegate的三单形式）  
+behavioral adj. 行为的  
+collaborators n. [劳经] 合作者；投敌者（collaborator的复数）  
+destruction n. 破坏，毁灭；摧毁  
+manually adv. 手动地；用手  
+introspection n. 内省；反省  
+officially  adv. 正式地；官方地；作为公务员  
+concurrent dj. adj. 并发的；一致的；同时发生的；并存的 n. [数] 共点；同时发生的事件  
+inconsistent adj. 不一致的；前后矛盾的  
+identifiers n. [计][图情] 标识符；标示符  
+alphanumeric adj. [计] 字母数字的  
+separated adj. 分开的；分居；不在一起生活的 v. 分开；隔开（separate的过去式和过去分词）  
+comma n. 逗号；停顿  
+semicolon 分号  
+constrained adj. 拘泥的；被强迫的；不舒服的  v. 驱使；强迫；勉强（constrain的过去分词）  
+enforced dj. 实施的；强制执行的 v. 执行（enforce的过去分词）  
+parser n. [计] 分析程序；语法剖析程式  
+convention n. 大会；[法] 惯例；[计] 约定；[法] 协定；习俗  
+generates 生成,发生   
+essentially adv. 本质上；本来  
+recipe n. 食谱；[临床] 处方；秘诀；烹饪法  
+encapsulated adj. 密封的；包在荚膜内的 v. 压缩（encapsulate的过去分词）；封进内部；装入胶囊  
+approach n. 方法；途径；接近  vt. 接近；着手处理 vi. 靠近  
+appropriate  adj. 适当的；恰当的；合适的 vt. 占用，拨出  
+legacy n. 遗赠，遗产  
 
